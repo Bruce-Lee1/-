@@ -442,7 +442,6 @@ html {
     background: url("img/1.png")no-repeat;
     position: absolute;
     right: 48%;
-    bottom: 1px;
     z-index: 1000;
 }
 .get{
@@ -451,12 +450,12 @@ html {
 }
 @-webkit-keyframes a{
     from{
-        bottom: 0.5rem;
-    opacity:1;
+        bottom: -0.5rem;
+        opacity:1;
 
   }
     to{
-        bottom: 1rem;
+        bottom: 0.5rem;
         opacity:0
     }
   }
