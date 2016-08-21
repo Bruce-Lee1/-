@@ -119,9 +119,8 @@ html {
 .slide2 .Aotu{
     margin: 2.1rem auto;
     width: 100%;
-    height: 7.8rem;
     background-color: #373139;
-    padding-top: 0.32rem;
+    padding-top: 0.1rem;
     padding-left: 1.12rem;
 }
 .slide2 .Aotu ul .dong{
@@ -190,7 +189,7 @@ html {
 }
 .slide3 ul{
     width: 5rem;
-    margin: 0.82rem auto;
+    margin: 0.2rem auto;
 }
 .slide3 ul li{
     line-height: 0.6rem;
@@ -293,7 +292,7 @@ html {
     display: block;
     width: 2.2rem;
     height: 0.72rem;
-    margin: 2.44rem auto 1rem;
+    margin: 2rem auto 0.6rem;
 }
 .slide4 div{
     width: 5.3rem;
@@ -330,11 +329,11 @@ html {
 }
 .slide5 ul li{
     width: 100%;
-    margin-top: 0.24rem;
+    margin-top: 0.1rem;
 }
 .slide5 ul li p{
     width: 0.18rem;
-    height: 0.7rem;
+    height: 0.3rem;
     background-color: rgb(242, 148, 25);
     display: inline-block;
     margin-right: 0.2rem;
@@ -352,7 +351,6 @@ html {
     font-size: 0.28rem;
     color: rgb(255, 255, 255);
     margin-left: 0.48rem;
-    padding-top: 0.2rem;
     line-height: 0.6rem;
 }
 #page5 li:nth-child(1){
@@ -439,19 +437,29 @@ html {
 }
 /*get*/
 .get{
-    width: 20px;
-    height: 20px;
+    width: 0.4rem;
+    height: 0.4rem;
     background: url("img/1.png")no-repeat;
     position: absolute;
     right: 48%;
-    bottom: 40px;
+    bottom: 0.8rem;
     z-index: 1000;
 }
 .get{
-    -webkit-animation: fadeInUpBig 1s linear 0s both;
-    animation: fadeInUpBig 1s linear 0s both;
+    -webkit-animation: a 1s linear infinite;
+    animation: a 1s linear infinite;
 }
+@-webkit-keyframes a{
+    from{
+        bottom: 0.8rem;
+    opacity:1;
 
+  }
+    to{
+        bottom: 1.5rem;
+        opacity:0
+    }
+  }
 
 /*--copy animate css--*/
 @-webkit-keyframes bounceInLeft {
