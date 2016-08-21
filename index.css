@@ -442,7 +442,7 @@ html {
     background: url("img/1.png")no-repeat;
     position: absolute;
     right: 48%;
-    bottom: 1px;
+    bottom: -10px;
     z-index: 1000;
 }
 .get{
