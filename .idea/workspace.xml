@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f2d872e-9415-4616-bce1-53040f09667e" name="Default" comment="" />
+    <list default="true" id="6f2d872e-9415-4616-bce1-53040f09667e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="aa.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.39868203">
-              <caret line="333" column="16" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="13" />
+              <caret line="333" column="16" selection-start-line="333" selection-start-column="16" selection-end-line="333" selection-end-column="16" />
               <folding>
                 <element signature="e#11413#12229#0" expanded="false" />
                 <element signature="e#12231#13058#0" expanded="false" />
@@ -345,7 +347,7 @@
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39868203">
-          <caret line="333" column="16" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="13" />
+          <caret line="333" column="16" selection-start-line="333" selection-start-column="16" selection-end-line="333" selection-end-column="16" />
           <folding>
             <element signature="e#11413#12229#0" expanded="false" />
             <element signature="e#12231#13058#0" expanded="false" />
