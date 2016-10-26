@@ -70,7 +70,7 @@ html {
 }
 /*--slide1--*/
 .slide1 {
-    position: relative;
+/*     position: relative; */
     background:  url("img/138.png") no-repeat;
     background-size: cover;
 }
@@ -87,10 +87,10 @@ html {
     margin-top: 0.3rem;
 }
 
-/*.swiper-slide img {
+.swiper-slide img {
     position: absolute;
     opacity: 0;
-}*/
+}
 .tup1{
     margin-left: 2.0rem;
     margin-top: 3.0rem;
